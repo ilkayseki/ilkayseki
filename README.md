@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/Xc3R3j4KFMvH01ZWaJ/giphy.gif?cid=ecf05e4761go85poajnmseda5xkufd9mn5c0j8isowk5sct4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="1000"/>
+  <img src="https://media0.giphy.com/media/Xc3R3j4KFMvH01ZWaJ/giphy.gif?cid=ecf05e4761go85poajnmseda5xkufd9mn5c0j8isowk5sct4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 </div>
 <h1 align="center">Hi 👋, I'm ilkay</h1>
 <h3 align="center">A Passionate Game Developer</h3>
