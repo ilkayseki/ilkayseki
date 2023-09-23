@@ -5,7 +5,7 @@
 <h1 align="center">  Ilkay SEKI </h1>
 <h3 align="center">🎮 A Passionate Game Developer</h3>
 
-## DDD
+## Professional Projects
 
 ### 	Offroad League 
 I actively contributed to 'Offroad League,' a captivating midcore game, where I demonstrated my proficiency in shaders and materials, enhancing the game's visuals and overall user experience.
