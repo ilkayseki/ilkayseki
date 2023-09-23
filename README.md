@@ -15,6 +15,8 @@ Key Achievements:
 4.	Led the integration of a dynamic Weather system, introducing lifelike effects like dirt accumulation, snow buildup, and rain, thereby enhancing the game's immersive quality.
 Furthermore, I exhibited proficiency in adapting the vehicle's appearance based on weather conditions, making the in-game environment truly interactive and captivating.
 The journey with 'Offroad League' has been one of innovation, creativity, and a commitment to delivering a top-notch gaming experience. I invite you to stay tuned for its future release, and when it becomes available, it will be showcased right here: http://roostergames.net/
+
+
 •	Down Of Empires 
 I worked as a game developer on the gameplay aspect of the real-timestrategy game "Dawn Of Empires," which is expected to be released in 2024.
 During this process, I acquired the ability to utilize assets from the "RTSEngine 2023" available on the asset store. You can find more informationabout the game at 
@@ -24,6 +26,7 @@ https://www.dawnofempires.com
 Game Description:
 In "Old Phone," players embark on an exciting journey to upgrade their old mobile phones to the latest and most modern devices. This hypercasual game challenges your mathematical skills and reflexes as you navigate through various levels.
 You can play here: https://gamedistribution.com/games/old-phone
+
 •	Gun Brothers
 Game Description:
 In "Expand the Gang," players embark on a strategic journey to expand their gang's territory through clever math operations while neutralizing opponents with a variety of weapons. Each level presents unique challenges that require both tactical thinking and mathematical skills.
