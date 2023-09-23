@@ -18,9 +18,9 @@ The journey with 'Offroad League' has been one of innovation, creativity, and a 
 
 
 ### 	Down Of Empires 
-I worked as a game developer on the gameplay aspect of the real-timestrategy game "Dawn Of Empires," which is expected to be released in 2024.
-During this process, I acquired the ability to utilize assets from the "RTSEngine 2023" available on the asset store. You can find more informationabout the game at 
-https://www.dawnofempires.com
+I worked as a game developer on the gameplay aspect of the real-time strategy game "Dawn Of Empires," which is expected to be released in 2024. My responsibilities included bug fixes, game testing, performance assessments, and system enhancements.
+During this process, I acquired the ability to utilize assets from the "RTSEngine 2023" available on the asset store. These assets were instrumental in optimizing gameplay and enhancing the overall gaming experience.
+For more information about the game and its development, you can visit the official website at https://www.dawnofempires.com
 
 ### 	Old Phone 
 Game Description:
