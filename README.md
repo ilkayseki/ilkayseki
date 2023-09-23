@@ -24,17 +24,17 @@ For more information about the game and its development, you can visit the offic
 
 ### 	Old Phone 
 Game Description:
-In "Old Phone," players embark on an exciting journey to upgrade their old mobile phones to the latest and most modern devices. This hypercasual game challenges your mathematical skills and reflexes as you navigate through various levels.
+"Old Phone," players embark on an exciting journey to upgrade their old mobile phones to the latest and most modern devices. This hypercasual game challenges your mathematical skills and reflexes as you navigate through various levels.
 You can play here: https://gamedistribution.com/games/old-phone
 
 ### 	Gun Brothers
 Game Description:
-In "Expand the Gang," players embark on a strategic journey to expand their gang's territory through clever math operations while neutralizing opponents with a variety of weapons. Each level presents unique challenges that require both tactical thinking and mathematical skills.
+"Expand the Gang," players embark on a strategic journey to expand their gang's territory through clever math operations while neutralizing opponents with a variety of weapons. Each level presents unique challenges that require both tactical thinking and mathematical skills.
 	You can play from here: https://gamedistribution.com/games/gun-brothers
 
 ### 	Stray Brothers    
 Game Description:
-In "Increase the Number of Your Cats," players embark on a strategic journey to grow their cat collection by performing mathematical operations on the platform. However, they must exercise caution to avoid crashing into obstacles. Each level presents unique challenges that require both mathematical acumen and strategic agility. 
+"Increase the Number of Your Cats," players embark on a strategic journey to grow their cat collection by performing mathematical operations on the platform. However, they must exercise caution to avoid crashing into obstacles. Each level presents unique challenges that require both mathematical acumen and strategic agility. 
 You can play from here: https://gamedistribution.com/games/stray-brothers
 
 
