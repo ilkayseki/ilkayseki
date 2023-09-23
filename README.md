@@ -6,7 +6,7 @@
 <h3 align="center">🎮 A Passionate Game Developer</h3>
 
 
-•	Offroad League 
+### 	Offroad League 
 I actively contributed to 'Offroad League,' a captivating midcore game, where I demonstrated my proficiency in shaders and materials, enhancing the game's visuals and overall user experience.
 Key Achievements:
 1.	Developed a robust Localization system that supports 11 languages, ensuring a global reach and engaging gameplay for diverse audiences.
@@ -17,22 +17,22 @@ Furthermore, I exhibited proficiency in adapting the vehicle's appearance based 
 The journey with 'Offroad League' has been one of innovation, creativity, and a commitment to delivering a top-notch gaming experience. I invite you to stay tuned for its future release, and when it becomes available, it will be showcased right here: http://roostergames.net/
 
 
-•	Down Of Empires 
+### 	Down Of Empires 
 I worked as a game developer on the gameplay aspect of the real-timestrategy game "Dawn Of Empires," which is expected to be released in 2024.
 During this process, I acquired the ability to utilize assets from the "RTSEngine 2023" available on the asset store. You can find more informationabout the game at 
 https://www.dawnofempires.com
 
-•	Old Phone 
+### 	Old Phone 
 Game Description:
 In "Old Phone," players embark on an exciting journey to upgrade their old mobile phones to the latest and most modern devices. This hypercasual game challenges your mathematical skills and reflexes as you navigate through various levels.
 You can play here: https://gamedistribution.com/games/old-phone
 
-•	Gun Brothers
+### 	Gun Brothers
 Game Description:
 In "Expand the Gang," players embark on a strategic journey to expand their gang's territory through clever math operations while neutralizing opponents with a variety of weapons. Each level presents unique challenges that require both tactical thinking and mathematical skills.
 	You can play from here: https://gamedistribution.com/games/gun-brothers
 
-•	Stray Brothers    
+### 	Stray Brothers    
 Game Description:
 In "Increase the Number of Your Cats," players embark on a strategic journey to grow their cat collection by performing mathematical operations on the platform. However, they must exercise caution to avoid crashing into obstacles. Each level presents unique challenges that require both mathematical acumen and strategic agility. 
 You can play from here: https://gamedistribution.com/games/stray-brothers
