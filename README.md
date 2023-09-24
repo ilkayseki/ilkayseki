@@ -97,10 +97,11 @@ You can reach it from : https://github.com/ilkayseki/Flappybird-Game-Task
  
 
 ### Control Glove
-In my project titled "Control Glove," I have developed a system based on Arduino and Unity. With this system, we can simulate a variety of hand movements wirelessly, from opening and closing fingers to rotating the hand.
+- In my project titled "Control Glove," I have developed a system based on Arduino and Unity. With this system, we can simulate a variety of hand movements wirelessly, from opening and closing fingers to rotating the hand.
 
-This innovative technology even allows for a more interactive gaming experience. Playing games becomes more immersive and engaging using this system, and it's applicable to a wide range of game genres.
+- This innovative technology even allows for a more interactive gaming experience. Playing games becomes more immersive and engaging using this system, and it's applicable to a wide range of game genres.
 
+- You can see it from here: https://www.linkedin.com/feed/update/urn:li:activity:7098690685075128320/?originTrackingId=yugwULB4Riai6T9wnhs5oA%3D%3D
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
