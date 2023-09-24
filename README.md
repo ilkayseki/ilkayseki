@@ -101,7 +101,28 @@ You can reach it from : https://github.com/ilkayseki/Flappybird-Game-Task
 
 - This innovative technology even allows for a more interactive gaming experience. Playing games becomes more immersive and engaging using this system, and it's applicable to a wide range of game genres.
 
-- You can see it from here: https://www.linkedin.com/feed/update/urn:li:activity:7098690685075128320/?originTrackingId=yugwULB4Riai6T9wnhs5oA%3D%3D
+- You can see it from here: https://www.linkedin.com/feed/update/urn:li:activity:7098690685075128320/
+
+### Basic Tetris
+
+- Simple and easy to play
+
+- You can reach it from here: https://github.com/ilkayseki/Tetris-Game
+
+  
+### Racket AI
+
+- Simple Racket Game include with AI
+
+-  You can reach it from here: https://github.com/ilkayseki/Racket-AI-Game
+
+
+### Beat Em Up
+
+- Fight Game made in with Unity 
+
+- You can reach it from here: https://github.com/ilkayseki/BeatEm-Game
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
