@@ -124,6 +124,45 @@ You can reach it from : https://github.com/ilkayseki/Flappybird-Game-Task
 - You can reach it from here: https://github.com/ilkayseki/BeatEm-Game
 
 
+
+### Basic Quiz Game
+
+- This basical Quiz game based on Unity
+- Game has two scene, one is menu, another one is game(or level) scene.
+- Menu scene start game and learn to game rules.
+- In game scene, you got some question (until the specified question in scripted objects) and you have time for each question.
+- End of the game, you can play again or go to menu.
+- You can reach it from here: https://github.com/ilkayseki/BeatEm-Game
+
+
+## Mage Vs AI
+
+This is a task for recruitment. The task is here;
+
+1) Project content
+● Single player mainly a simple TPS (Third-person shooter) mobile game. (APK file for Android devices)
+● Example games:
+ https://play.google.com/store/apps/details?id=com.wildlife.games.battle.royale.free.zoo
+ba&hl=en
+https://play.google.com/store/apps/details?id=com.wolffun.herostrike&hl=en
+2) Map:
+● A map with very simple objects (boxes without texture & texture, etc.). No special design is required.
+3) Characters:
+● Characters will have 3 types of animations, idle, move and attack.
+● Characters will throw a stone, etc. to attack.
+● Stone will do random damage in a certain range. The health of the characters will be enough for multiple stone hits.
+4) Gameplay:
+● Players of two teams consisting of 1 person each will start the game in different parts of the map and their aim will be to kill each other 10 times.
+● The player who reaches 10 kill points will win the game.
+● When players die, they will respawn in a different part of the map.
+5) Artificial intelligence:
+● After the opponent spawns, it will move towards us and after a certain distance, it will move to the right and left a certain distance and stop in between and try to throw stones at us.
+● Every stone he throws will not move towards us, but will move forward with a certain margin of error.
+6) Visual content & assets:
+● You can make the assets yourself or buy them from outside, the quality is not so important. Our expectation from you is to reflect your experience in shader and game feeling as much as you can in this project.
+
+- You can reach it from here: https://github.com/ilkayseki/MageVsAI-Game-Task
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ilkayseki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilkayseki" height="30" width="40" /></a>
