@@ -94,6 +94,13 @@ You can reach it from : https://github.com/ilkayseki/Flappybird-Game-Task
 - 🔗 Feel free to check it out and download it from https://lnkd.in/guwKDK99 to start scanning QR codes effortlessly. Your feedback and support mean the world to me, so please let me know what you think! Thank you for being a part of my journey.
 
 - You can see it from: https://www.linkedin.com/feed/update/urn:li:activity:7110993784322093056
+ 
+
+### Control Glove
+In my project titled "Control Glove," I have developed a system based on Arduino and Unity. With this system, we can simulate a variety of hand movements wirelessly, from opening and closing fingers to rotating the hand.
+
+This innovative technology even allows for a more interactive gaming experience. Playing games becomes more immersive and engaging using this system, and it's applicable to a wide range of game genres.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
