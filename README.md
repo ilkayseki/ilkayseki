@@ -14,14 +14,19 @@
 ## Professional Projects
 
 ### 	Offroad League 
-I actively contributed to 'Offroad League,' a captivating midcore game, where I demonstrated my proficiency in shaders and materials, enhancing the game's visuals and overall user experience.
+As the Product Manager overseeing the development of 'Offroad League,' I worked closely with a talented Game Developer, fostering their contributions to this captivating midcore game. Collaborating hand-in-hand, I provided guidance and direction, leveraging the developer's expertise in shaders and materials to significantly elevate the game's visual appeal and overall user experience.
+
 Key Achievements:
-1.	Developed a robust Localization system that supports 11 languages, ensuring a global reach and engaging gameplay for diverse audiences.
-2.	Implemented an innovative Achievement system, offering players exciting milestones and rewarding gameplay experiences.
-3.	Created an advanced Paint & Decal & Wrap system, enabling players to personalize their vehicles and unleash their creativity within the game.
-4.	Led the integration of a dynamic Weather system, introducing lifelike effects like dirt accumulation, snow buildup, and rain, thereby enhancing the game's immersive quality.
-Furthermore, I exhibited proficiency in adapting the vehicle's appearance based on weather conditions, making the in-game environment truly interactive and captivating.
-The journey with 'Offroad League' has been one of innovation, creativity, and a commitment to delivering a top-notch gaming experience. I invite you to stay tuned for its future release, and when it becomes available, it will be showcased right here: http://roostergames.net/
+
+Guided and directed the development of a robust Localization system accommodating 11 languages. This pivotal addition, spearheaded by our talented Game Developer, ensured a global reach and enriched gameplay experience for a diverse audience.
+
+In close collaboration, our joint effort led to the implementation of an innovative Achievement system, offering players exciting milestones and rewarding gameplay experiences.
+
+Together, we conceptualized and brought to life an advanced Paint & Decal & Wrap system, empowering players to personalize their vehicles and nurture their creativity within the game.
+
+Instrumental in overseeing the integration of a dynamic Weather system, our joint efforts introduced lifelike effects such as dirt accumulation, snow buildup, and rain, significantly enhancing the game's immersive quality.
+
+Moreover, in partnership with our adept Game Developer, we successfully implemented adaptive vehicle appearance based on weather conditions, delivering a truly interactive and captivating in-game environment.
 
 
 ### 	Down Of Empires 
