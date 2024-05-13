@@ -3,7 +3,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjY0azd5ejEwOGhlc3ZucmVwMHhhc3RlYzE5cjYwbXl6dG81b2F4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vrxxqQbyRxYi6scCjT/giphy.gif" height="300"/>
 </div>
 <h1 align="center">  Ilkay SEKI </h1>
-//<h3 align="center">🎮 A Passionate Game Developer</h3>
 <h3 align="center">🎮 A Passionate Product Manager</h3>
 
 
