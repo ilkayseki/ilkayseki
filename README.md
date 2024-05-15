@@ -17,26 +17,26 @@ Contributed to 'Offroad League' a midcore game, where I demonstrated my proficie
 
 Key Achievements:
 
-Developed a Localization system that supports 11 languages with Unity Localization
+- Developed a Localization system that supports 11 languages with Unity Localization
 
-Implemented Achievement system, enhancing player experience with exciting milestones and rewards.
+- Implemented Achievement system, enhancing player experience with exciting milestones and rewards.
 
-Created an advanced Paint & Decal & Wrap system, enabling players to personalize their vehicles and unleash their creativity within the game.
+- Created an advanced Paint & Decal & Wrap system, enabling players to personalize their vehicles and unleash their creativity within the game.
 
-Led integration of dynamic Weather system, enhancing immersive quality with lifelike effects and interactive environment adaptation based on weather conditions, utilizing URP Car Paint Shader.
+- Led integration of dynamic Weather system, enhancing immersive quality with lifelike effects and interactive environment adaptation based on weather conditions, utilizing URP Car Paint Shader.
 
 ### 	Down Of Empires 
 Worked on the real-time strategy game "Dawn Of Empires," which is expected to be released in Early 2025.
 
 Key Achievements:
 
-Developed AI movement, using A* search algorithm.
+- Developed AI movement, using A* search algorithm.
 
-Developed NavMesh-based AI with several different states.
+- Developed NavMesh-based AI with several different states.
 
-Acquired the ability to utilize assets from the "RTS Engine 2023" available on the asset store.
+- Acquired the ability to utilize assets from the "RTS Engine 2023" available on the asset store.
 
-You can find more information about the game at https://www.dawnofempires.com
+- You can find more information about the game at https://www.dawnofempires.com
 
 ### 	Old Phone 
 Game Description:
