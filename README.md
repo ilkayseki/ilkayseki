@@ -58,6 +58,19 @@ You can play from here: https://gamedistribution.com/games/stray-brothers
 
 ## Personal Projects
 
+### Digital Twin Case Work
+
+Key Objectives of the Case Study:
+
+- Observing the three-dimensional model remotely upon program launch 👀
+- Zooming in on the model and opening the details window by clicking on it 🖱️
+- Using dynamic data exchange and interactive buttons in the details window 💡
+- Sharing and making the case study available for review on GitHub before the presentation day 📅
+- You can find detailed information about the case study:
+
+Video demonstration: https://www.linkedin.com/feed/update/urn:li:activity:7192865739618316289
+Source code: https://github.com/ilkayseki/OnoCase
+
 ### 	Flappy Bird
 
 This is a clone Flappybird for task. Task is here;
