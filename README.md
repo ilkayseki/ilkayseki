@@ -69,6 +69,7 @@ Key Objectives of the Case Study:
 - You can find detailed information about the case study:
 
 Video demonstration: https://www.linkedin.com/feed/update/urn:li:activity:7192865739618316289
+
 Source code: https://github.com/ilkayseki/OnoCase
 
 ### 	Flappy Bird
