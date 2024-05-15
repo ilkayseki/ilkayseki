@@ -13,24 +13,30 @@
 ## Professional Projects
 
 ### 	Offroad League 
-I actively contributed to 'Offroad League,' a captivating midcore game, where I demonstrated my proficiency in shaders and materials, enhancing the game's visuals and overall user experience.
-
+Contributed to 'Offroad League' a midcore game, where I demonstrated my proficiency in shaders and materials, enhancing the game's visuals.
 
 Key Achievements:
 
-Developed a robust Localization system that supports 11 languages, ensuring a global reach and engaging gameplay for diverse audiences.
+Developed a Localization system that supports 11 languages with Unity Localization
 
-Implemented an innovative Achievement system, offering players exciting milestones and rewarding gameplay experiences.
+Implemented Achievement system, enhancing player experience with exciting milestones and rewards.
 
 Created an advanced Paint & Decal & Wrap system, enabling players to personalize their vehicles and unleash their creativity within the game.
 
-Led the integration of a dynamic Weather system, introducing lifelike effects like dirt accumulation, snow buildup, and rain, thereby enhancing the game's immersive quality. Furthermore, I exhibited proficiency in adapting the vehicle's appearance based on weather conditions, making the in-game environment truly interactive and captivating. The journey with 'Offroad League' has been one of innovation, creativity, and a commitment to delivering a top-notch gaming experience. I invite you to stay tuned for its future release, and when it becomes available, it will be showcased right here: http://roostergames.net/
-
+Led integration of dynamic Weather system, enhancing immersive quality with lifelike effects and interactive environment adaptation based on weather conditions, utilizing URP Car Paint Shader.
 
 ### 	Down Of Empires 
-I worked as a game developer on the gameplay aspect of the real-time strategy game "Dawn Of Empires," which is expected to be released in 2024. My responsibilities included bug fixes, game testing, performance assessments, and system enhancements.
-During this process, I acquired the ability to utilize assets from the "RTSEngine 2023" available on the asset store. These assets were instrumental in optimizing gameplay and enhancing the overall gaming experience.
-For more information about the game and its development, you can visit the official website at https://www.dawnofempires.com
+Worked on the real-time strategy game "Dawn Of Empires," which is expected to be released in Early 2025.
+
+Key Achievements:
+
+Developed AI movement, using A* search algorithm.
+
+Developed NavMesh-based AI with several different states.
+
+Acquired the ability to utilize assets from the "RTS Engine 2023" available on the asset store.
+
+You can find more information about the game at https://www.dawnofempires.com
 
 ### 	Old Phone 
 Game Description:
