@@ -195,7 +195,7 @@ You can reach it from : https://github.com/ilkayseki/Flappybird-Game-Task
 - You can reach it from here: https://github.com/ilkayseki/BeatEm-Game
 
 
-## Mage Vs AI
+### Mage Vs AI
 
 This is a task for recruitment. The task is here;
 
