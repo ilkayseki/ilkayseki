@@ -62,29 +62,34 @@ You can play from here: https://gamedistribution.com/games/stray-brothers
 
 Key Objectives of the Project:
 
-Creating an n x n grid with an integer ("n") that can be adjusted in the Editor or at Runtime
-Placing an X mark on any cell of the grid when it is clicked or touched
-Removing X marks when at least 3 X marks are horizontally or vertically adjacent
-Ensuring the grid always fits the screen
-(BONUS) Not using a canvas for the grid
+- Creating an n x n grid with an integer ("n") that can be adjusted in the Editor or at Runtime
+- Placing an X mark on any cell of the grid when it is clicked or touched
+- Removing X marks when at least 3 X marks are horizontally or vertically adjacent
+- Ensuring the grid always fits the screen
+- (BONUS) Not using a canvas for the grid
+
 Project Description:
 
 This project was developed based on specific requirements:
+- Unity Version: Unity 2020.3.x or 2021.3.x
+- Version Control: Versioned with Git from the beginning and includes regular commits
+- Public Repository: The project is shared publicly on GitHub
+- SOLID Principles: The code adheres to SOLID principles
+- Dependency Injection: Zenject is used (BONUS)
+- Code Quality: The code is readable and follows a chosen coding convention
 
-Unity Version: Unity 2020.3.x or 2021.3.x
-Version Control: Versioned with Git from the beginning and includes regular commits
-Public Repository: The project is shared publicly on GitHub
-SOLID Principles: The code adheres to SOLID principles
-Dependency Injection: Zenject is used (BONUS)
-Code Quality: The code is readable and follows a chosen coding convention
 Technologies Used:
 
-Unity 2021.3.x
-C#
-Git
-Zenject
-TextMesh Pro
+- Unity 2021.3.x
+- C#
+- Git
+- Zenject
+- TextMesh Pro
+
 For more information and to access the code, visit the GitHub repository:
+Source code: [GitHub Repository Link]
+
+---
 
 Source code: https://github.com/ilkayseki/GameCase_P1
 
