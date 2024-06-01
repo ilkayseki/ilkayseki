@@ -87,9 +87,6 @@ Technologies Used:
 - TextMesh Pro
 
 For more information and to access the code, visit the GitHub repository:
-Source code: [GitHub Repository Link]
-
----
 
 Source code: https://github.com/ilkayseki/GameCase_P1
 
