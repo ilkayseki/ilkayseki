@@ -38,7 +38,7 @@ Key Achievements:
 
 - Acquired the ability to utilize assets from the "RTS Engine 2023" available on the asset store.
 
-- You can find more information about the game at https://www.dawnofempires.com
+- You can find more information about the game at https://www.landellgroup.com/2021/09/12/landell-games-ab/
 
 ### 	Old Phone 
 Game Description:
