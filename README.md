@@ -25,7 +25,7 @@ Key Achievements:
 
 - Led integration of dynamic Weather system, enhancing immersive quality with lifelike effects and interactive environment adaptation based on weather conditions, utilizing URP Car Paint Shader.
 
-- You can find more information about the game at https://rooster.gs
+- You can find more information about the game at https://apps.apple.com/br/app/offroad-league/id6451036687
 
 ### 	Down Of Empires 
 Worked on the real-time strategy game "Dawn Of Empires," which is expected to be released in Early 2025.
