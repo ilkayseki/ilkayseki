@@ -98,6 +98,8 @@ Source code: https://github.com/ilkayseki/GameCase_P2
 
 Video demonstration: https://www.linkedin.com/feed/update/urn:li:ugcPost:7203712890896277505/
 
+
+
 ### Grid Game Project
 
 Key Objectives of the Project:
@@ -144,6 +146,8 @@ Video demonstration: https://www.linkedin.com/feed/update/urn:li:activity:719286
 
 Source code: https://github.com/ilkayseki/OnoCase
 
+
+
 ### 	Flappy Bird
 
 This is a clone Flappybird for task. Task is here;
@@ -182,6 +186,8 @@ the length of the session.
 
 
 You can reach it from : https://github.com/ilkayseki/Flappybird-Game-Task
+
+
 
 ### 	Basic Qr Code Scanner
 
