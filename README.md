@@ -236,7 +236,7 @@ You can reach it from : https://github.com/ilkayseki/Flappybird-Game-Task
 - Menu scene start game and learn to game rules.
 - In game scene, you got some question (until the specified question in scripted objects) and you have time for each question.
 - End of the game, you can play again or go to menu.
-- You can reach it from here: https://github.com/ilkayseki/BeatEm-Game
+- You can reach it from here: https://github.com/ilkayseki/BasicQuiz-Game
 
 
 ### Mage Vs AI
